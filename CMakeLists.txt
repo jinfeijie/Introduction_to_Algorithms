@@ -3,4 +3,4 @@ project(Alg)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Alg main.cpp Alg.h/insertion-sort.h Alg.c/insertion-sort.cpp)
+add_executable(Alg main.cpp Alg.h/insertion-sort.h Alg.c/insertion-sort.cpp Alg.c/bubble_sort.cpp Alg.h/bubble_sort.h)
